@@ -1,5 +1,5 @@
 # Desafio-recriando-layout
-Desafio recriando layout - aula 02 curso rocketseat
+Desafio recriando layout - aula 02 curso rocketseat - Explorer
 
 # 💻 Sobre o desafio
 
